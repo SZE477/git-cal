@@ -56,6 +56,7 @@ v0.9.2
         ◦ Closes #58
 
 📘 Usage Tips
+    
     • To view all history of an author:
       git config calendar.period 12
       git-cal --all --author="nferraz"
@@ -63,6 +64,7 @@ v0.9.2
       git-cal --period=4
 
 🚧 Contribution Guide
+    
     1. Fork & clone the repo
     
     2. Create a branch: git checkout -b fix/issue-xx
