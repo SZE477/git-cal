@@ -64,9 +64,13 @@ v0.9.2
 
 🚧 Contribution Guide
     1. Fork & clone the repo
+    
     2. Create a branch: git checkout -b fix/issue-xx
+    
     3. Apply your changes
+    
     4. Commit with reference: git commit -m "fix(scope): description (closes #xx)"
+    
     5. Push & open a Pull Request
 
 📄 License
